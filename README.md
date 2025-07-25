@@ -1,6 +1,7 @@
 # atividade-nuvem-4
 
 1- [Calculadora Simples](https://github.com/Miguel03706/atividade-nuvem-4/blob/main/calculadora.py)
+
 Crie um programa que simule uma calculadora básica com as seguintes funcionalidades:
 
 * Solicite ao usuário dois números reais.  
@@ -11,6 +12,7 @@ Crie um programa que simule uma calculadora básica com as seguintes funcionalid
 O programa deve continuar solicitando entradas até que uma operação válida seja realizada com sucesso.
 
 2- [Registro de Notas e Cálculo da Média](https://github.com/Miguel03706/atividade-nuvem-4/blob/main/notas.py)
+
 Desenvolva um programa para registrar notas de uma turma e calcular a média final. Siga as instruções abaixo:
 
 * O programa deve solicitar notas continuamente até o usuário digitar "fim".  
@@ -19,6 +21,7 @@ Desenvolva um programa para registrar notas de uma turma e calcular a média fin
 * Trate entradas inválidas com mensagens de erro.  
 
 3- [Verificador de Senhas Fortes](https://github.com/Miguel03706/atividade-nuvem-4/blob/main/verificar_senha.py)
+
 Crie um programa que avalia a força de uma senha informada pelo usuário. O programa deve:
 
 * Solicitar a senha até que o usuário digite "sair".  
@@ -28,6 +31,7 @@ Crie um programa que avalia a força de uma senha informada pelo usuário. O pro
 * Encerrar o programa apenas quando a senha for forte ou se o usuário digitar "sair".  
 
 4- [Analisador de Números Pares e Ímpares](https://github.com/Miguel03706/atividade-nuvem-4/blob/main/impar_par.py)
+
 Desenvolva um programa que classifica números inteiros como pares ou ímpares. O programa deve:
 
 * Solicitar números inteiros até que o usuário digite "fim".  
