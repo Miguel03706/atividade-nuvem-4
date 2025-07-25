@@ -21,7 +21,7 @@ def calculadora():
                 continue
 
             print(f"O resultado de {num1} {operacao} {num2} é: {resultado}")
-            break  # Sai do loop após uma operação válida
+            break
 
         except ValueError:
             print("Entrada inválida. Por favor, insira números reais.")
